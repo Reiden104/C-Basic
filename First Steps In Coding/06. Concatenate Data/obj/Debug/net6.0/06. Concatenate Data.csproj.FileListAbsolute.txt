@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.exe
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.deps.json
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.runtimeconfig.json
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.dll
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.pdb
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.AssemblyInfo.cs
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.dll
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\refint\06. Concatenate Data.dll
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.pdb
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.genruntimeconfig.cache
+C:\Users\Angel\Desktop\SoftUni\First Steps In Coding\06. Concatenate Data\obj\Debug\net6.0\ref\06. Concatenate Data.dll
